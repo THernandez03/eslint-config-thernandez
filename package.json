@@ -26,7 +26,8 @@
     "/dist"
   ],
   "scripts": {
-    "pre-publish": "babel src --out-dir dist",
+    "build": "babel src --out-dir dist",
+    "prepublish": "npm run build",
     "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
