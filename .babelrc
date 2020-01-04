@@ -1,3 +1,4 @@
 {
-  "presets": ["babel-preset-thernandez"]
+  "presets": ["babel-preset-thernandez"],
+  "plugins": ["add-module-exports"]
 }
