@@ -27,7 +27,8 @@
   ],
   "scripts": {
     "build": "babel src --out-dir dist",
-    "release": "npm run build && standard-version",
+    "prepublish": "npm run build",
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
@@ -40,7 +41,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.20.3",
-    "eslint-plugin-react-hooks": "^4.0.6",
+    "eslint-plugin-react-hooks": "^4.0.7",
     "eslint-plugin-unicorn": "^20.1.0"
   },
   "devDependencies": {
