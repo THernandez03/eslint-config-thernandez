@@ -1,0 +1,2 @@
+- Use commitlint-config-thernandez
+- Add README.md
