@@ -98,6 +98,7 @@ export default {
     'no-console': 1,
     'no-continue': 0,
     'no-debugger': 1,
+    'no-empty-function': 0,
     'no-inline-comments': 0,
     'no-magic-numbers': [
       0,
