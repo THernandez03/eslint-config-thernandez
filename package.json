@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-thernandez",
   "description": "ESLint rules definition",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "license": "MIT",
   "homepage": "https://github.com/THernandez03/eslint-config-thernandez#readme",
   "main": "./dist/index.js",
