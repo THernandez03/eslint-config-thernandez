@@ -33,7 +33,6 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.12.5",
-    "babel-eslint": "^10.1.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-compat": "^3.8.0",
     "eslint-plugin-emotion": "^10.0.27",
@@ -48,6 +47,7 @@
   "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
+    "@babel/eslint-parser": "^7.12.1",
     "@commitlint/cli": "^11.0.0",
     "babel-plugin-add-module-exports": "^1.0.4",
     "babel-preset-thernandez": "0.0.19",
