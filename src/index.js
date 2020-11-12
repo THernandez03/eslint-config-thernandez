@@ -41,7 +41,7 @@ export default {
     'compat',
     'jsx-a11y',
     'unicorn',
-    'emotion',
+    '@emotion',
   ],
   settings: {
     react: { version: 'detect' },
@@ -231,8 +231,8 @@ export default {
     ],
     'unicorn/prevent-abbreviations': 0,
     'unicorn/no-reduce': 0,
-    'emotion/no-vanilla': 2,
-    'emotion/styled-import': 2,
-    'emotion/syntax-preference': [2, 'string'],
+    '@emotion/no-vanilla': 2,
+    '@emotion/styled-import': 2,
+    '@emotion/syntax-preference': [2, 'string'],
   },
 };
