@@ -45,8 +45,8 @@
     "eslint-plugin-unicorn": "^23.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.12.8",
-    "@babel/core": "^7.12.9",
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
     "@babel/eslint-parser": "^7.12.1",
     "@commitlint/cli": "^11.0.0",
     "babel-plugin-add-module-exports": "^1.0.4",
