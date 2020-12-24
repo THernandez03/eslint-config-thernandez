@@ -176,10 +176,17 @@ export default {
     'react/jsx-max-props-per-line': [2, { maximum: 5 }],
     'react/jsx-no-bind': 0,
     'react/jsx-no-literals': 0,
-    'react/react-in-jsx-scope': 0,
+    'react/jsx-props-no-spreading': [
+      2,
+      {
+        html: 'ignore',
+        exceptions: ['Component'],
+      },
+    ],
     'react/jsx-sort-default-props': 0,
     'react/jsx-sort-props': 0,
     'react/jsx-uses-react': 0,
+    'react/react-in-jsx-scope': 0,
     'react/sort-comp': 0,
     'react-hooks/rules-of-hooks': 2,
     'react-hooks/exhaustive-deps': 2,
