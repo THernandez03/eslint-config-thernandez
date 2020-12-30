@@ -237,6 +237,7 @@ export default {
       },
     ],
     'unicorn/prevent-abbreviations': 0,
+    'unicorn/no-null': 0,
     'unicorn/no-reduce': 0,
     '@emotion/no-vanilla': 2,
     '@emotion/styled-import': 2,
