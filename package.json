@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-thernandez",
   "description": "ESLint rules definition",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "license": "MIT",
   "homepage": "https://github.com/THernandez03/eslint-config-thernandez#readme",
   "main": "./dist/index.js",
@@ -27,7 +27,7 @@
   ],
   "scripts": {
     "build": "babel src --out-dir dist",
-    "prepublish": "npm run build",
+    "prepare": "npm run build",
     "release": "HUSKY=0 standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
