@@ -42,7 +42,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "eslint-plugin-unicorn": "^25.0.1"
+    "eslint-plugin-unicorn": "^26.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
