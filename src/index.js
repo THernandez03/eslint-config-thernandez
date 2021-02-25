@@ -28,9 +28,6 @@ export default {
     'plugin:jsx-a11y/strict',
     'plugin:unicorn/recommended',
     'prettier',
-    'prettier/babel',
-    'prettier/react',
-    'prettier/unicorn',
   ],
   plugins: [
     'prettier',
