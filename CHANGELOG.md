@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.26](https://github.com/THernandez03/eslint-config-thernandez/compare/v0.0.25...v0.0.26) (2021-06-12)
+
+
+### Bug Fixes
+
+* 🐛 Add prepare script yo stup husky ([386ede0](https://github.com/THernandez03/eslint-config-thernandez/commit/386ede02b288fe9fdf034bb39198aa161a4300a9))
+
 ### [0.0.25](https://github.com/THernandez03/eslint-config-thernandez/compare/v0.0.24...v0.0.25) (2021-02-25)
 
 ### [0.0.24](https://github.com/THernandez03/eslint-config-thernandez/compare/v0.0.23...v0.0.24) (2020-12-30)
