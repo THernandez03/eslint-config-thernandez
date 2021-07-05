@@ -55,7 +55,7 @@
     "commitlint-config-thernandez": "^0.0.5",
     "eslint": "^7.30.0",
     "git-cz": "^4.7.6",
-    "husky": "^6.0.0",
+    "husky": "^7.0.0",
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.2",
     "standard-version": "^9.3.0"
