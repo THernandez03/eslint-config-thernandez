@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.31](https://github.com/THernandez03/eslint-config-thernandez/compare/v0.0.30...v0.0.31) (2022-01-26)
+
 ### [0.0.30](https://github.com/THernandez03/eslint-config-thernandez/compare/v0.0.29...v0.0.30) (2022-01-25)
 
 ### [0.0.29](https://github.com/THernandez03/eslint-config-thernandez/compare/v0.0.28...v0.0.29) (2021-11-06)
