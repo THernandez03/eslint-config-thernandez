@@ -223,7 +223,7 @@ export default {
     'promise/no-promise-in-callback': 2,
     'jsx-a11y/lang': 2,
     'jsx-a11y/no-static-element-interactions': 0,
-    'unicorn/catch-error-name': [2, { caughtErrorsIgnorePattern: '^error$' }],
+    'unicorn/catch-error-name': [2, { ignore: ['^error$'] }],
     'unicorn/filename-case': [
       0,
       {
