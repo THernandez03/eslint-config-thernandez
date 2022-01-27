@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.32](https://github.com/THernandez03/eslint-config-thernandez/compare/v0.0.31...v0.0.32) (2022-01-27)
+
+
+### Bug Fixes
+
+* 🐛 Install missing dependency and fix wrong rule option ([94bbd6b](https://github.com/THernandez03/eslint-config-thernandez/commit/94bbd6b0046fd22792b37e92e9208ded08d57c20))
+
 ### [0.0.31](https://github.com/THernandez03/eslint-config-thernandez/compare/v0.0.30...v0.0.31) (2022-01-26)
 
 ### [0.0.30](https://github.com/THernandez03/eslint-config-thernandez/compare/v0.0.29...v0.0.30) (2022-01-25)
