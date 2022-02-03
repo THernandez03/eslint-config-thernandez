@@ -33,7 +33,6 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@babel/core": "^7.16.12",
     "@babel/eslint-parser": "^7.16.5",
     "@babel/runtime": "^7.16.7",
     "@emotion/eslint-plugin": "^11.7.0",
@@ -50,10 +49,12 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
     "@commitlint/cli": "^16.1.0",
     "babel-plugin-add-module-exports": "^1.0.4",
-    "babel-preset-thernandez": "^0.0.23",
+    "babel-preset-thernandez": "^0.0.26",
     "commitlint-config-thernandez": "^0.0.5",
+    "eslint-config-thernandez": "^0.0.33",
     "git-cz": "^4.8.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.3",
