@@ -9,15 +9,17 @@ export default {
     },
   },
   env: {
-    amd: true,
-    es6: true,
-    jest: true,
-    node: true,
-    mongo: true,
-    jquery: true,
     browser: true,
-    jasmine: true,
-    phantomjs: true,
+    node: true,
+    commonjs: true,
+    shared: true,
+    worker: true,
+    amd: true,
+    jest: true,
+    mongo: true,
+    serviceworker: true,
+    webextensions: true,
+    greasemonkey: true,
   },
   extends: [
     'eslint:all',
@@ -43,9 +45,6 @@ export default {
   settings: {
     react: { version: 'detect' },
     polyfills: ['fetch', 'promises'],
-  },
-  globals: {
-    globalThis: false,
   },
   rules: {
     'capitalized-comments': [
