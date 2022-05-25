@@ -29,6 +29,7 @@ export default {
     'plugin:compat/recommended',
     'plugin:jsx-a11y/strict',
     'plugin:unicorn/recommended',
+    'plugin:eslint-comments/recommended',
     'prettier',
   ],
   plugins: [
@@ -239,5 +240,6 @@ export default {
     '@emotion/no-vanilla': 2,
     '@emotion/styled-import': 2,
     '@emotion/syntax-preference': [2, 'string'],
+    'eslint-comments/no-unused-disable': 2,
   },
 };
