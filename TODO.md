@@ -1,2 +1,17 @@
-- Use commitlint-config-thernandez
+- [eslint-plugin-cypress](https://github.com/cypress-io/eslint-plugin-cypress)
+- [eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node)
+- [eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest)
+- [eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
+- [eslint-plugin-jest-formatting](https://github.com/dangreenisrael/eslint-plugin-jest-formatting)
+- [eslint-plugin-jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async)
+- [eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library)
+- [eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security)
+- [eslint-plugin-xss](https://github.com/Rantanen/eslint-plugin-xss)
+- [eslint-plugin-json](https://github.com/azeemba/eslint-plugin-json)
+- [eslint-plugin-json-format](https://github.com/kuceb/eslint-plugin-json-format)
+- [eslint-plugin-jsonc](https://github.com/ota-meshi/eslint-plugin-jsonc)
+- [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown)
+- [eslint-plugin-html](https://github.com/BenoitZugmeyer/eslint-plugin-html)
+- [eslint-plugin-lodash](https://github.com/wix/eslint-plugin-lodash)
+- [eslint-plugin-lodash-fp](https://github.com/jfmengels/eslint-plugin-lodash-fp)
 - Add README.md
