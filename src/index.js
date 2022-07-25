@@ -12,7 +12,6 @@ export default {
     browser: true,
     node: true,
     commonjs: true,
-    shared: true,
     worker: true,
     amd: true,
     jest: true,
@@ -20,6 +19,7 @@ export default {
     serviceworker: true,
     webextensions: true,
     greasemonkey: true,
+    'shared-node-browser': true,
   },
   extends: [
     'eslint:all',
