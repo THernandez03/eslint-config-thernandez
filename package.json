@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.19.1",
-    "@babel/runtime": "^7.20.1",
+    "@babel/runtime": "^7.20.6",
     "@emotion/eslint-plugin": "^11.10.0",
     "eslint": "^8.28.0",
     "eslint-config-prettier": "^8.5.0",
@@ -46,11 +46,11 @@
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.31.11",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-unicorn": "^45.0.0"
+    "eslint-plugin-unicorn": "^45.0.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.19.3",
-    "@babel/core": "^7.20.2",
+    "@babel/core": "^7.20.5",
     "@commitlint/cli": "^17.3.0",
     "babel-plugin-add-module-exports": "^1.0.4",
     "babel-preset-thernandez": "^0.0.26",
