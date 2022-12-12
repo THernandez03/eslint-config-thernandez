@@ -112,7 +112,6 @@ export default {
     'no-ternary': 0,
     'no-undef': [2, { typeof: true }],
     'no-underscore-dangle': 0,
-    'no-unknown-property': [2, { ignore: ['css'] }],
     'no-unused-expressions': [
       2,
       {
@@ -149,6 +148,7 @@ export default {
     'react/require-optimization': [2, { allowDecorators: ['pure'] }],
     'react/no-multi-comp': [2, { ignoreStateless: true }],
     'react/no-set-state': 0,
+    'react/no-unknown-property': [2, { ignore: ['css'] }],
     'react/sort-prop-types': [
       2,
       {
