@@ -112,6 +112,7 @@ export default {
     'no-ternary': 0,
     'no-undef': [2, { typeof: true }],
     'no-underscore-dangle': 0,
+    'no-unknown-property': [2, { ignore: ['css'] }],
     'no-unused-expressions': [
       2,
       {
