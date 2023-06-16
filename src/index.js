@@ -69,7 +69,6 @@ export default {
     'id-match': 0,
     'init-declarations': 0,
     'lines-around-comment': 0,
-    'no-new-object': 0,
     'max-depth': [2, 3],
     'max-len': [
       2,
@@ -91,6 +90,7 @@ export default {
     'max-statements': 0,
     'multiline-ternary': 0,
     'multiline-comment-style': [2, 'separate-lines'],
+    'new-cap': [2, { properties: false }],
     'no-bitwise': 0,
     'no-confusing-arrow': [0, { allowParens: true }],
     'no-console': 1,
@@ -106,6 +106,7 @@ export default {
         detectObjects: true,
       },
     ],
+    'no-new-object': 0,
     'no-process-env': 0,
     'no-restricted-modules': [2, 'lodash'],
     'no-restricted-syntax': [2, 'WithStatement'],
