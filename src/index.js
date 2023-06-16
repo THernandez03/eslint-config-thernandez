@@ -90,7 +90,6 @@ export default {
     'max-statements': 0,
     'multiline-ternary': 0,
     'multiline-comment-style': [2, 'separate-lines'],
-    'new-cap': [2, { properties: false }],
     'no-bitwise': 0,
     'no-confusing-arrow': [0, { allowParens: true }],
     'no-console': 1,
