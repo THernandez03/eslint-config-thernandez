@@ -20,6 +20,7 @@ export default {
     serviceworker: true,
     webextensions: true,
     greasemonkey: true,
+    es2024: true,
     'shared-node-browser': true,
   },
   extends: [
@@ -46,7 +47,10 @@ export default {
   ],
   settings: {
     react: { version: 'detect' },
-    polyfills: ['fetch', 'promises'],
+  },
+  globals: {
+    Bun: 'readonly',
+    Deno: 'readonly',
   },
   rules: {
     'capitalized-comments': [
